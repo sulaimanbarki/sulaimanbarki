@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sulaimanbarki, full time PHP and Laravel developer with more than one year experience.
+- 👋 Hi, I’m @sulaimanbarki, full time PHP and Laravel developer with more than two years experience.
 - 👀 I’m interested in Laravel, PHP and developing APIs.
 - 🌱 I’m currently doing as full time PHP and Laravel developer.
 - 💞️ I’m looking to collaborate on Laravel, Vue.js and PHP.
