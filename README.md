@@ -3,6 +3,7 @@
 - 🌱 I’m currently available to work.
 - 💞️ I’m looking to collaborate on Laravel, VueJs, PHP, and NodeJs.
 - 📫 How to reach me: sulaimanbarki@gmail.com
+- My Leetcode profile : https://leetcode.com/sulaimanbarki
 
 <!---
 sulaimanbarki/sulaimanbarki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
